@@ -1,6 +1,6 @@
 # LinkedIn Application
 a clone of the official linkedin web Application
- a live project can be foun by [clicking on this link](https://linkedin-cloneapp.netlify.app/)
+ a live project can be foun by [clicking on this link](https://wizardly-brattain-410d14.netlify.app/)
  
 ## Features
 - users first need to 'Register' to be able to acess the home page
@@ -22,7 +22,7 @@ a clone of the official linkedin web Application
 
 ## stage
 project is currectly finished
-[Click here to go to live project](https://linkedin-cloneapp.netlify.app/)
+[Click here to go to live project](https://wizardly-brattain-410d14.netlify.app/)
 
 
 #### picture
